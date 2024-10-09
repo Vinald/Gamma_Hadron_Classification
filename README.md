@@ -1,4 +1,4 @@
-# Gamma Alpha Classification
+# Gamma Hadron Classification
 
 ## Dataset
 
@@ -23,5 +23,5 @@
 
 ### Target
 
-- Target there are two classes Gamma and Alpha.
+- Target there are two classes Gamma and Hadron.
     1. class: g,h # gamma (signal), hadron (background)
